@@ -1,0 +1,5 @@
+Hey Hey you I am am am Tanya 
+I am learning Hadoop 
+This is a java program
+How are you
+This will count frequency of each word
